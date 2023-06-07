@@ -1,0 +1,13 @@
+The game starts with a screen that displays an image
+ that invites the user to a button to start the game.
+During the game the things we added extra are:
+- Click indicator that indicates the same color even before clicking.
+- Coloring of the signal pressed in a different color.
+- A timer that flashes close to the end of time.
+- Stop button if the user wants to go to the bathroom or eat.
+ While pressing the button the letters are hidden.
+Indicators for the various buttons on the board.
+- End screen with a picture that warns of the end of the game.
+- After a letter is clicked, the click indicator indicates only
+ the words that can be clicked, ie only the neighboring letters.
+- colorful board that invites the user to play.
